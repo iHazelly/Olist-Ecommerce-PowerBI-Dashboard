@@ -1,7 +1,6 @@
 # Olist-Ecommerce-PowerBI-Dashboard
 Power BI dashboard for Olist E-Commerce data. Features ETL pipeline (Python/Pandas), Star Schema modeling, DAX measures for revenue, delivery, and satisfaction KPIs, and interactive reports across 4 pages.
 
-# Olist E-Commerce Business Intelligence Dashboard (Power BI)
 # Executive Summary
 <img width="1150" height="487" alt="image" src="https://github.com/user-attachments/assets/b9c01641-d2d0-49aa-ac32-9d8d72c07122" />
 
