@@ -1,4 +1,16 @@
 # Olist-Ecommerce-PowerBI-Dashboard
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-Measures-blue)
+![Power Query](https://img.shields.io/badge/Power%20Query-ETL-green)
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-blueviolet?logo=pandas&logoColor=white)
+![Star Schema](https://img.shields.io/badge/Star%20Schema-Data%20Modeling-red)
+![Interactive Dashboard](https://img.shields.io/badge/Interactive-Dashboard-brightgreen)
+![Geospatial](https://img.shields.io/badge/Geospatial-Map%20Visualization-lightblue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Dataset](https://img.shields.io/badge/Dataset-Olist%20Brazilian%20E--Commerce-9cf)
+![Orders](https://img.shields.io/badge/Orders-100K+-informational)
+
 Power BI dashboard for Olist E-Commerce data. Features ETL pipeline (Python/Pandas), Star Schema modeling, DAX measures for revenue, delivery, and satisfaction KPIs, and interactive reports across 4 pages.
 
 # Executive Summary
