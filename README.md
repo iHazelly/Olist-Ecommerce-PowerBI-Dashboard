@@ -14,6 +14,11 @@
 ## 📥 Download Power BI File
 https://github.com/iHazelly/Olist-Ecommerce-PowerBI-Dashboard/releases/download/v1.0.0/BIA_Assignment1_Paradorn.Khanongsuwan.pbix
 
+## Business Intelligence & Analytics – From Raw Data to Executive Dashboard
+
+This project is a **complete Business Intelligence solution** that transforms 100,000+ rows of raw e-commerce transactional data into an **interactive Power BI dashboard** with actionable insights for Olist's senior leadership.
+
+---
 
 Power BI dashboard for Olist E-Commerce data. Features ETL pipeline (Python/Pandas), Star Schema modeling, DAX measures for revenue, delivery, and satisfaction KPIs, and interactive reports across 4 pages.
 
@@ -30,12 +35,6 @@ Power BI dashboard for Olist E-Commerce data. Features ETL pipeline (Python/Pand
 <img width="1512" height="711" alt="image" src="https://github.com/user-attachments/assets/27ca4bba-49a3-4134-927b-23713aed7390" />
 
 
-
-## Business Intelligence & Analytics – From Raw Data to Executive Dashboard
-
-This project is a **complete Business Intelligence solution** that transforms 100,000+ rows of raw e-commerce transactional data into an **interactive Power BI dashboard** with actionable insights for Olist's senior leadership.
-
----
 
 ### Data Engineering Pipeline (ETL)
 
