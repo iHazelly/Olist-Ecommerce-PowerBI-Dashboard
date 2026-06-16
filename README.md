@@ -11,6 +11,9 @@
 ![Dataset](https://img.shields.io/badge/Dataset-Olist%20Brazilian%20E--Commerce-9cf)
 ![Orders](https://img.shields.io/badge/Orders-100K+-informational)
 
+## 📥 Download Power BI File
+[Download BIA_Assignment1_Paradorn Khanongsuwan.pbix](https://github.com/ชื่อคุณ/ชื่อRepo/releases/download/v1.0.0/BIA_Assignment1_Paradorn%20Khanongsuwan.pbix)
+
 Power BI dashboard for Olist E-Commerce data. Features ETL pipeline (Python/Pandas), Star Schema modeling, DAX measures for revenue, delivery, and satisfaction KPIs, and interactive reports across 4 pages.
 
 # Executive Summary
