@@ -5,13 +5,13 @@ Power BI dashboard for Olist E-Commerce data. Features ETL pipeline (Python/Pand
 <img width="1611" height="698" alt="image" src="https://github.com/user-attachments/assets/0e124560-575e-4fbe-9ace-8bd74647c666" />
 
 # Sales & Order Performance
-<img width="1139" height="482" alt="image" src="https://github.com/user-attachments/assets/43dccbec-718b-4995-b4f7-d74b0f39f08a" />
+<img width="1181" height="505" alt="image" src="https://github.com/user-attachments/assets/478ed569-b464-474f-bb21-b68424ce8a70" />
 
 # Delivery & Seller Performance
-<img width="1145" height="692" alt="image" src="https://github.com/user-attachments/assets/21fa4c3c-b8a4-4470-9ed5-e7ddf082d169" />
+<img width="1169" height="715" alt="image" src="https://github.com/user-attachments/assets/b672bdca-bed3-4121-88cd-a17438829495" />
 
 # Customer Satisfaction & Geospatial Insights
-<img width="1051" height="501" alt="image" src="https://github.com/user-attachments/assets/f81ffa11-d96c-42bd-8a9b-3226e499fbfe" />
+<img width="1512" height="711" alt="image" src="https://github.com/user-attachments/assets/27ca4bba-49a3-4134-927b-23713aed7390" />
 
 
 
