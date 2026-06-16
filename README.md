@@ -10,7 +10,13 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Dataset](https://img.shields.io/badge/Dataset-Olist%20Brazilian%20E--Commerce-9cf)
 ![Orders](https://img.shields.io/badge/Orders-100K+-informational)
+## 📊 Dataset
 
+This project uses the **Olist Brazilian E-Commerce Public Dataset**, which contains real transactional data from a Brazilian e-commerce marketplace covering over 100,000 orders placed between 2016 and 2018.
+
+- **Source:** [Kaggle - Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- **Tables:** 9 relational tables (orders, customers, products, sellers, payments, reviews, geolocation, etc.)
+---
 ## 📥 Download Power BI File
 https://github.com/iHazelly/Olist-Ecommerce-PowerBI-Dashboard/releases/download/v1.0.0/BIA_Assignment1_Paradorn.Khanongsuwan.pbix
 
