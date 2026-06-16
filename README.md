@@ -12,7 +12,7 @@
 ![Orders](https://img.shields.io/badge/Orders-100K+-informational)
 
 ## 📥 Download Power BI File
-[Download BIA_Assignment1_Paradorn Khanongsuwan.pbix](https://github.com/iHazelly/Olist-Ecommerce-PowerBI-Dashboard/releases/download/v1.0.0/BIA_Assignment1_Paradorn%20Khanongsuwan.pbix)
+https://github.com/iHazelly/Olist-Ecommerce-PowerBI-Dashboard/releases/download/v1.0.0/BIA_Assignment1_Paradorn.Khanongsuwan.pbix
 
 
 Power BI dashboard for Olist E-Commerce data. Features ETL pipeline (Python/Pandas), Star Schema modeling, DAX measures for revenue, delivery, and satisfaction KPIs, and interactive reports across 4 pages.
