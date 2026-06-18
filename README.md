@@ -48,21 +48,24 @@ This project is a **complete Business Intelligence solution** that transforms 10
 ---
 
 ### Page 1: Sales & Order Performance
-<img width="1181" alt="Sales & Order Performance" src="https://github.com/user-attachments/assets/478ed569-b464-474f-bb21-b68424ce8a70" />
+<img width="1214" height="657" alt="image" src="https://github.com/user-attachments/assets/38237ed2-3792-4f36-ba6e-7aa1b364e37a" />
+
 
 **Key Features:** KPI Cards (Monthly Growth %, Top Category Revenue, Late Rate, On-Time Rate), Line Chart, Bar Chart (Top 10 Categories), Donut Chart (Payment Methods), Waterfall Chart (Revenue Contribution), Treemap (Revenue Distribution), Matrix Table (Monthly Breakdown), Slicers (Year, Month, Payment Type, Customer State)
 
 ---
 
 ### Page 2: Delivery & Seller Performance
-<img width="1169" alt="Delivery & Seller Performance" src="https://github.com/user-attachments/assets/b672bdca-bed3-4121-88cd-a17438829495" />
+<img width="1198" height="650" alt="image" src="https://github.com/user-attachments/assets/1888411c-88ec-4092-9e9d-e44b907c0bc0" />
+
 
 **Key Features:** Scatter Plot (Freight vs Delivery Days), Bar Chart (Delivery by Seller State), Column Chart (Late Rate by State), Table (Slowest Sellers), Funnel Chart (Order Fulfillment), Ribbon Chart (Delivery Days by State over Time), Slicers (Year, Month, Customer State)
 
 ---
 
 ### Page 3: Customer Satisfaction & Geospatial Insights
-<img width="1512" alt="Customer Satisfaction & Geospatial Insights" src="https://github.com/user-attachments/assets/27ca4bba-49a3-4134-927b-23713aed7390" />
+<img width="1184" height="759" alt="image" src="https://github.com/user-attachments/assets/f5ccd2ab-b286-4c79-ba37-312885500913" />
+
 
 **Key Features:** Filled Map (Review Score by State), Column Chart (Review by Delivery Delay), Treemap (Review by Product Category), Table (Review by Payment Type), Pie Chart (Review by Payment Type), Scatter Plot (Revenue vs Review Score by State), Slicers (Year, Month, Customer State)
 
