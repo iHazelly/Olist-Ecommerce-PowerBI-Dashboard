@@ -40,7 +40,8 @@ This project is a **complete Business Intelligence solution** that transforms 10
 ## 📸 Dashboard Screenshots
 
 ### Page 0: Executive Summary
-<img width="1611" alt="Executive Summary" src="https://github.com/user-attachments/assets/0e124560-575e-4fbe-9ace-8bd74647c666" />
+<img width="1182" height="575" alt="image" src="https://github.com/user-attachments/assets/5d280014-00ea-482d-86b4-30cd6245dfa2" />
+
 
 **Key Features:** KPI Cards (5), Gauge Chart (Delivery Delay Rate), Line Chart (Revenue & Orders), Text Box (Summary), Slicers (Year, Month, Payment Type, Customer State)
 
